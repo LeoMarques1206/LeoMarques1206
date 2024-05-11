@@ -69,4 +69,3 @@
 
 ###
 
-![snake gif](https://github.com/LeoMarques1206/LeoMarques1206/blob/output/github-contribution-grid-snake.svg)
