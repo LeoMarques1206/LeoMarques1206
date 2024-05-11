@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Leonardo Marques</h1>
-<h3 align="center">Um estudante de ciência da computação apaixonado por desenvolvimento de jogos 🎮</h3>
+<h3 align="center">Estudante de ciência da computação apaixonado por desenvolvimento de jogos 🎮</h3>
 
 - 🌴 Fortaleza, CE
 - 💻 Ciência da Computação - UNIFOR
