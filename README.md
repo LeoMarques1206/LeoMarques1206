@@ -2,6 +2,7 @@
 <h3 align="center">Um estudante de ciência da computação apaixonado por desenvolvimento de jogos</h3>
 
 - 📫 Me contacte via e-mail **leogmarq@gmail.com**
+- 💻 Ciência da Computação - UNIFOR
 - 🎯 Atualmente focado em projetos na Unity2D 
 
 <p align="left">
