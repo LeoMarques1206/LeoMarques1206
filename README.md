@@ -71,8 +71,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LeoMarques1206/LeoMarques1206/output/snake.svg" alt="Snake animation" />
-
 ###
