@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, me chamo Leonardo Marques</h1>
 <h3 align="center">Um estudante de ciência da computação apaixonado por desenvolvimento de jogos</h3>
 
-- 📫 Me contacte via e-mail **leogmarq@gmail.com**
 - 💻 Ciência da Computação - UNIFOR
-- 🎯 Atualmente focado em projetos na Unity2D 
+- 🎯 Atualmente focado em projetos na Unity2D
+- 📫 Me contacte via e-mail **leogmarq@gmail.com**
 
 <p align="left">
 </p>
