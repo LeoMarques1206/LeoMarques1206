@@ -14,7 +14,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
 <h3 align="left">Ferramentas:</h3>
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 <img src="https://www.vectorlogo.zone/logos/html/html-icon.svg" alt="HTML" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/css/css-icon.svg" alt="CSS" width="40" height="40"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="40" height="40"/>
 
 
 
