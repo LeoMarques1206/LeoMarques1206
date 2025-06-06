@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Estudante de ciência da computação apaixonado por desenvolvimento de jogos 🎮</h3>
+<h3 align="left">Desenvolvedor apaixonado por desenvolvimento de jogos 🎮</h3>
 
 ###
 
-<p align="left">🌴 Fortaleza, CE<br>💻 Ciência da Computação - UNIFOR<br>🎯 Atualmente focado em projetos na Unity2D<br>📫 Me contacte via e-mail: leogmarq@gmail.com</p>
+<p align="left">🌴 Fortaleza, CE<br>💻 Ciência da Computação - UNIFOR<br>🎯 Atualmente focado em projetos na Unity<br>📫 Me contacte via e-mail: leogmarq@gmail.com</p>
 
 ###
 
