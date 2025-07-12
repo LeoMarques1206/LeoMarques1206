@@ -76,6 +76,3 @@ Apoie o projeto!
 
 ---
 
-<p align="left">
-  <img src="https://tenor.com/hed1boXS2vq.gif" height="180" />
-</p>
