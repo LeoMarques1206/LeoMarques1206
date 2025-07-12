@@ -77,5 +77,5 @@ Apoie o projeto!
 ---
 
 <p align="left">
-  <img src="https://tenor.com/pt-BR/view/2d-mario-running-gif-5930085643515150510" height="180" />
+  <img src="https://tenor.com/hed1boXS2vq.gif" height="180" />
 </p>
