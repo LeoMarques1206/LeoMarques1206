@@ -16,6 +16,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </div>
 
+<p align="left">
+  <img src="https://66.media.tumblr.com/927365f0bbdd1f3d2f852bac8759f89b/tumblr_mh8a7wx1WG1rfjowdo1_r2_500.gif" height="180" />
+</p>
+
 ---
 
 ### 🚀 Projeto em destaque
@@ -28,7 +32,7 @@ Um app desktop feito em Python com OCR + UI responsiva para detectar códigos pr
 ![UI com ttkbootstrap](https://img.shields.io/badge/UI-ttkbootstrap-blueviolet)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
-Apoie o projeto:
+Apoie o projeto!
 
 </a>
 <a href="https://buymeacoffee.com/leomarques" target="_blank">
@@ -72,6 +76,4 @@ Apoie o projeto:
 
 ---
 
-<p align="left">
-  <img src="https://66.media.tumblr.com/927365f0bbdd1f3d2f852bac8759f89b/tumblr_mh8a7wx1WG1rfjowdo1_r2_500.gif" height="180" />
-</p>
+
