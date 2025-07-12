@@ -13,7 +13,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/leo-marques-58a8a6255" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </div>
 
 ---
