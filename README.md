@@ -32,7 +32,7 @@ Um app desktop feito em Python com OCR + UI responsiva para detectar códigos pr
 <a href="https://buymeacoffee.com/leomarques" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD231?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35" />
 </a>
----
+\n---
 
 ### 📊 Estatísticas
 
