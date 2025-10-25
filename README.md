@@ -39,6 +39,26 @@ Apoie o projeto!
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD231?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35" />
 </a>
 
+#### 🐱 [Garras do Destino](https://github.com/LeoMarques1206/unity-biomas)
+
+Jogo 2D de plataforma feito em C# na Unity com informações educacionais sobre biomas brasileiros utilizando uma IA integrada com o Chat GPT 
+Meu primeiro jogo na Unity
+
+![C#](https://img.shields.io/badge/Feito%20com-C%23-239120?logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Ferramenta-Unity-000000?logo=unity&logoColor=white)
+![IA: ChatGPT](https://img.shields.io/badge/IA-ChatGPT-74aa9c?logo=openai&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+
+#### 🦴 [CancerSO](https://github.com/LeoMarques1206/CancerSO)
+
+Jogo de aventura isométrico no estilo point & click feito em C# na Unity para a conscientização do câncer ósseo
+Projeto de TCC 
+
+![C#](https://img.shields.io/badge/Feito%20com-C%23-239120?logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Ferramenta-Unity-000000?logo=unity&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+
+
 ---
 
 ### 📊 Estatísticas
