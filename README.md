@@ -107,7 +107,6 @@ Apoie o projeto!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Meta_Quest_Icon.svg" height="40" />
 </div>
 
 ---
