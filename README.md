@@ -22,22 +22,18 @@
 
 ---
 
-### 🚀 Projeto em destaque
+### 🚀 Projetos em destaque
 
-#### 🧠 [DetectaCodigos](https://github.com/LeoMarques1206/DetectaCodigos)
+#### 🥽 [Pelvicare](https://github.com/LeoMarques1206/CNPQ-VR-IC )
 
-Um app desktop feito em Python com OCR + UI responsiva para detectar texto e copiar para área de transferência
+- Ambiente de realidade virtual feito em C# na Unity e com o Oculus Meta Quest 2 para o treinamento de procedimentos no assoalho pelvico
+- O projeto utiliza marcadores físicos no mundo real e realidade aumentada para se acoplar a um robô simulador do assoalho pelvico
+- Projeto iniciado como parte de iniciação científica, mas com o seu desenvolvimento prolongado
 
-![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
-![UI com ttkbootstrap](https://img.shields.io/badge/UI-ttkbootstrap-blueviolet)
+![C#](https://img.shields.io/badge/Feito%20com-C%23-239120?logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Ferramenta-Unity-000000?logo=unity&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-
-Apoie o projeto!
-
-</a>
-<a href="https://buymeacoffee.com/leomarques" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD231?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35" />
-</a>
+![VR: Meta Quest 2](https://img.shields.io/badge/VR-Meta%20Quest%202-663399?logo=oculus&logoColor=white)
 
 #### 🐱 [Garras do Destino](https://github.com/LeoMarques1206/unity-biomas)
 
@@ -58,16 +54,21 @@ Apoie o projeto!
 ![Unity](https://img.shields.io/badge/Ferramenta-Unity-000000?logo=unity&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
-#### 🥽 [Pelvicare](https://github.com/LeoMarques1206/CNPQ-VR-IC )
+#### 🧠 [DetectaCodigos](https://github.com/LeoMarques1206/DetectaCodigos)
 
-- Ambiente de realidade virtual feito em C# na Unity e com o Oculus Meta Quest 2 para o treinamento de procedimentos no assoalho pelvico
-- O projeto utiliza marcadores físicos no mundo real e realidade aumentada para se acoplar a um robô simulador do assoalho pelvico
-- Projeto iniciado como parte de iniciação científica, mas com o seu desenvolvimento prolongado
+Um app desktop feito em Python com OCR + UI responsiva para detectar texto e copiar para área de transferência
 
-![C#](https://img.shields.io/badge/Feito%20com-C%23-239120?logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Ferramenta-Unity-000000?logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
+![UI com ttkbootstrap](https://img.shields.io/badge/UI-ttkbootstrap-blueviolet)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![VR: Meta Quest 2](https://img.shields.io/badge/VR-Meta%20Quest%202-663399?logo=oculus&logoColor=white)
+
+Apoie o projeto!
+
+</a>
+<a href="https://buymeacoffee.com/leomarques" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD231?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35" />
+</a>
+
 
 
 ---
