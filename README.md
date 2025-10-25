@@ -6,8 +6,8 @@
 
 <p align="left">
 🌴 Fortaleza, CE <br>
-🎓 Formado em Ciência da Computação - UNIFOR <br>
-🛠️ Foco atual em projetos na Unity 2D/3D <br>
+🎓 Desenvolvedor formado em Ciência da Computação - UNIFOR <br>
+🛠️ Foco atual em projetos de games na Unity 2D/3D/VR <br>
 📫 Contato: <a href="mailto:leogmarq@gmail.com">leogmarq@gmail.com</a>
 </p>
 
