@@ -62,7 +62,7 @@ Projeto de TCC
 
 #### 🥽 [Pelvicare](https://github.com/LeoMarques1206/CancerSO)
 
-Jogo/ambiente de realidade virtual feito em C# na Unity e com o Oculus Meta Quest 2 para o treinamento de procedimentos no assoalho pelvico
+Ambiente de realidade virtual feito em C# na Unity e com o Oculus Meta Quest 2 para o treinamento de procedimentos no assoalho pelvico
 <br>
 O projeto utiliza marcadores físicos no mundo real e realidade aumentada para se acoplar a um robô simulador do assoalho pelvico
 
