@@ -45,15 +45,6 @@
 ![IA: ChatGPT](https://img.shields.io/badge/IA-ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
-#### 🦴 [CancerSO](https://github.com/LeoMarques1206/CancerSO)
-
-- Jogo de aventura isométrico no estilo point & click feito em C# na Unity para a conscientização do câncer ósseo
-- Projeto de TCC 
-
-![C#](https://img.shields.io/badge/Feito%20com-C%23-239120?logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Ferramenta-Unity-000000?logo=unity&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-
 #### 🧠 [DetectaCodigos](https://github.com/LeoMarques1206/DetectaCodigos)
 
 Um app desktop feito em Python com OCR + UI responsiva para detectar texto e copiar para área de transferência
