@@ -60,7 +60,7 @@ Projeto de TCC
 ![Unity](https://img.shields.io/badge/Ferramenta-Unity-000000?logo=unity&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
-#### 🥽 [Pelvicare](https://github.com/LeoMarques1206/CancerSO)
+#### 🥽 [Pelvicare](https://github.com/LeoMarques1206/CNPQ-VR-IC )
 
 Ambiente de realidade virtual feito em C# na Unity e com o Oculus Meta Quest 2 para o treinamento de procedimentos no assoalho pelvico
 <br>
