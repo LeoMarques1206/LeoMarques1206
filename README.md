@@ -43,7 +43,7 @@ Apoie o projeto!
 
 Jogo 2D de plataforma feito em C# na Unity com informações educacionais sobre biomas brasileiros utilizando uma IA integrada com o Chat GPT
 <br>
-Meu primeiro jogo na Unity
+Meu primeiro jogo na Unity feito como parte de um projeto na graduação
 
 ![C#](https://img.shields.io/badge/Feito%20com-C%23-239120?logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Ferramenta-Unity-000000?logo=unity&logoColor=white)
