@@ -52,7 +52,6 @@ Apoie o projeto!
 #### 🦴 [CancerSO](https://github.com/LeoMarques1206/CancerSO)
 
 - Jogo de aventura isométrico no estilo point & click feito em C# na Unity para a conscientização do câncer ósseo
-<br>
 - Projeto de TCC 
 
 ![C#](https://img.shields.io/badge/Feito%20com-C%23-239120?logo=csharp&logoColor=white)
@@ -62,9 +61,7 @@ Apoie o projeto!
 #### 🥽 [Pelvicare](https://github.com/LeoMarques1206/CNPQ-VR-IC )
 
 - Ambiente de realidade virtual feito em C# na Unity e com o Oculus Meta Quest 2 para o treinamento de procedimentos no assoalho pelvico
-<br>
 - O projeto utiliza marcadores físicos no mundo real e realidade aumentada para se acoplar a um robô simulador do assoalho pelvico
-<br>
 - Projeto iniciado como parte de iniciação científica, mas com o seu desenvolvimento prolongado
 
 ![C#](https://img.shields.io/badge/Feito%20com-C%23-239120?logo=csharp&logoColor=white)
@@ -110,6 +107,7 @@ Apoie o projeto!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Meta_Quest_Icon.svg" height="40" />
 </div>
 
 ---
