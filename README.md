@@ -26,7 +26,7 @@
 
 #### 🧠 [DetectaCodigos](https://github.com/LeoMarques1206/DetectaCodigos)
 
-Um app desktop feito em Python com OCR + UI responsiva para detectar códigos promocionais e cartões em vídeos e copiar automaticamente para sua área de transferência.
+Um app desktop feito em Python com OCR + UI responsiva para detectar texto e copiar para área de transferência
 
 ![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
 ![UI com ttkbootstrap](https://img.shields.io/badge/UI-ttkbootstrap-blueviolet)
