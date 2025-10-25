@@ -41,7 +41,8 @@ Apoie o projeto!
 
 #### 🐱 [Garras do Destino](https://github.com/LeoMarques1206/unity-biomas)
 
-Jogo 2D de plataforma feito em C# na Unity com informações educacionais sobre biomas brasileiros utilizando uma IA integrada com o Chat GPT 
+Jogo 2D de plataforma feito em C# na Unity com informações educacionais sobre biomas brasileiros utilizando uma IA integrada com o Chat GPT
+<br>
 Meu primeiro jogo na Unity
 
 ![C#](https://img.shields.io/badge/Feito%20com-C%23-239120?logo=csharp&logoColor=white)
@@ -52,11 +53,23 @@ Meu primeiro jogo na Unity
 #### 🦴 [CancerSO](https://github.com/LeoMarques1206/CancerSO)
 
 Jogo de aventura isométrico no estilo point & click feito em C# na Unity para a conscientização do câncer ósseo
+<br>
 Projeto de TCC 
 
 ![C#](https://img.shields.io/badge/Feito%20com-C%23-239120?logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Ferramenta-Unity-000000?logo=unity&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+
+#### 🥽 [Pelvicare](https://github.com/LeoMarques1206/CancerSO)
+
+Jogo/ambiente de realidade virtual feito em C# na Unity e com o Oculus Meta Quest 2 para o treinamento de procedimentos no assoalho pelvico
+<br>
+O projeto utiliza marcadores físicos no mundo real e realidade aumentada para se acoplar a um robô simulador do assoalho pelvico
+
+![C#](https://img.shields.io/badge/Feito%20com-C%23-239120?logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Ferramenta-Unity-000000?logo=unity&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![VR: Meta Quest 2](https://img.shields.io/badge/VR-Meta%20Quest%202-663399?logo=oculus&logoColor=white)
 
 
 ---
