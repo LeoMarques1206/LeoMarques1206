@@ -65,6 +65,8 @@ Projeto de TCC
 Ambiente de realidade virtual feito em C# na Unity e com o Oculus Meta Quest 2 para o treinamento de procedimentos no assoalho pelvico
 <br>
 O projeto utiliza marcadores físicos no mundo real e realidade aumentada para se acoplar a um robô simulador do assoalho pelvico
+<br>
+Projeto iniciado como parte de iniciação científica, mas com o seu desenvolvimento prolongado
 
 ![C#](https://img.shields.io/badge/Feito%20com-C%23-239120?logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Ferramenta-Unity-000000?logo=unity&logoColor=white)
