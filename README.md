@@ -45,23 +45,6 @@
 ![IA: ChatGPT](https://img.shields.io/badge/IA-ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
-#### 🧠 [DetectaCodigos](https://github.com/LeoMarques1206/DetectaCodigos)
-
-Um app desktop feito em Python com OCR + UI responsiva para detectar texto e copiar para área de transferência
-
-![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
-![UI com ttkbootstrap](https://img.shields.io/badge/UI-ttkbootstrap-blueviolet)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-
-Apoie o projeto!
-
-</a>
-<a href="https://buymeacoffee.com/leomarques" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD231?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35" />
-</a>
-
-
-
 ---
 
 ### 📊 Estatísticas
