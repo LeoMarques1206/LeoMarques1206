@@ -24,16 +24,28 @@
 
 ### 🚀 Projetos em destaque
 
+#### 🐠 [Depths of the mind VR](https://github.com/LeoMarques1206/VR---IC---AGUA )
+
+- Jogo de realidade virtual do fundo do mar feito em C# na Unity para o Oculus Meta Quest 2/3
+- Periodicamente simula surtos de diversas condições neurológicas, modificando o ambiente e os peixes
+- O jogo utiliza a API da openAI para fazer chamadas ao chat GPT simulando um guia para surtos de condições neurológicas, como a esquizofrênia e o pânico. A IA devolve a informação via voz utilizando TTS
+
+![C#](https://img.shields.io/badge/Feito%20com-C%23-239120?logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Ferramenta-Unity-000000?logo=unity&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![IA: ChatGPT](https://img.shields.io/badge/IA-ChatGPT-74aa9c?logo=openai&logoColor=white)
+![VR: Meta Quest 2](https://img.shields.io/badge/VR-Meta%20Quest%202-663399?logo=oculus&logoColor=white)
+
 #### 🥽 [Pelvicare](https://github.com/LeoMarques1206/CNPQ-VR-IC )
 
-- Ambiente de realidade virtual feito em C# na Unity e com o Oculus Meta Quest 2 para o treinamento de procedimentos no assoalho pelvico
+- Ambiente de realidade virtual feito em C# na Unity e com o Oculus Meta Quest 3 para o treinamento de procedimentos no assoalho pelvico
 - O projeto utiliza marcadores físicos no mundo real e realidade aumentada para se acoplar a um robô simulador do assoalho pelvico
 - Projeto iniciado como parte de iniciação científica, mas com o seu desenvolvimento prolongado
 
 ![C#](https://img.shields.io/badge/Feito%20com-C%23-239120?logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Ferramenta-Unity-000000?logo=unity&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![VR: Meta Quest 2](https://img.shields.io/badge/VR-Meta%20Quest%202-663399?logo=oculus&logoColor=white)
+![VR: Meta Quest 3](https://img.shields.io/badge/VR-Meta%20Quest%202-663399?logo=oculus&logoColor=white)
 
 #### 🐱 [Garras do Destino](https://github.com/LeoMarques1206/unity-biomas)
 
