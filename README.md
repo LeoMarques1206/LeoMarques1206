@@ -1,14 +1,14 @@
-<h1 align="left">Olá 👋, me chamo Leonardo Marques</h1>
+<h1 align="left">Hello 👋, my name is Leonardo Marques</h1>
 
-<h3 align="left">🎮 Desenvolvedor apaixonado por jogos e tecnologias visuais</h3>
+<h3 align="left">🎮 Developer passionate about games and visual technologies</h3>
 
 ---
 
 <p align="left">
-🌴 Fortaleza, CE <br>
-🎓 Desenvolvedor formado em Ciência da Computação - UNIFOR <br>
-🛠️ Foco atual em projetos de games na Unity 2D/3D/VR <br>
-📫 Contato: <a href="mailto:leogmarq@gmail.com">leogmarq@gmail.com</a>
+🌴 Fortaleza, CE - Brazil <br>
+🎓 Computer Science graduate - UNIFOR <br>
+🛠️ Currently focused on Unity 2D/3D/VR game development projects <br>
+📫 Contact: <a href="mailto:leogmarq@gmail.com">leogmarq@gmail.com</a>
 </p>
 
 <div align="left">
@@ -22,44 +22,44 @@
 
 ---
 
-### 🚀 Projetos em destaque
+### 🚀 Featured Projects
 
-#### 🐠 [Depths of the mind VR](https://github.com/LeoMarques1206/VR---IC---AGUA )
+#### 🐠 [Depths of the Mind VR](https://github.com/LeoMarques1206/VR---IC---AGUA)
 
-- Jogo de realidade virtual do fundo do mar feito em C# na Unity para o Oculus Meta Quest 2/3
-- Periodicamente simula surtos de diversas condições neurológicas, modificando o ambiente e os peixes
-- O jogo utiliza a API da openAI para fazer chamadas ao chat GPT simulando um guia para surtos de condições neurológicas, como a esquizofrênia e o pânico. A IA devolve a informação via voz utilizando TTS
+- Virtual reality underwater game developed in C# with Unity for Oculus Meta Quest 2  
+- Periodically simulates episodes of different neurological conditions, modifying the environment and the fish  
+- The game uses the OpenAI API to call ChatGPT as a guide explaining neurological conditions such as schizophrenia and panic. The AI returns the information through voice using TTS.
 
-![C#](https://img.shields.io/badge/Feito%20com-C%23-239120?logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Ferramenta-Unity-000000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/Built%20with-C%23-239120?logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Engine-Unity-000000?logo=unity&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![IA: ChatGPT](https://img.shields.io/badge/IA-ChatGPT-74aa9c?logo=openai&logoColor=white)
+![AI: ChatGPT](https://img.shields.io/badge/AI-ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![VR: Meta Quest 2](https://img.shields.io/badge/VR-Meta%20Quest%202-663399?logo=oculus&logoColor=white)
 
-#### 🥽 [Pelvicare](https://github.com/LeoMarques1206/CNPQ-VR-IC )
+#### 🥽 [Pelvicare](https://github.com/LeoMarques1206/CNPQ-VR-IC)
 
-- Ambiente de realidade virtual feito em C# na Unity e com o Oculus Meta Quest 3 para o treinamento de procedimentos no assoalho pelvico
-- O projeto utiliza marcadores físicos no mundo real e realidade aumentada para se acoplar a um robô simulador do assoalho pelvico
-- Projeto iniciado como parte de iniciação científica, mas com o seu desenvolvimento prolongado
+- Virtual reality environment developed in C# with Unity for the Oculus Meta Quest 3 to train pelvic floor procedures  
+- The project uses physical markers in the real world combined with augmented reality to attach to a pelvic floor simulator robot  
+- The project started as an undergraduate research project but continued to evolve beyond the initial scope
 
-![C#](https://img.shields.io/badge/Feito%20com-C%23-239120?logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Ferramenta-Unity-000000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/Built%20with-C%23-239120?logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Engine-Unity-000000?logo=unity&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![VR: Meta Quest 3](https://img.shields.io/badge/VR-Meta%20Quest%202-663399?logo=oculus&logoColor=white)
+![VR: Meta Quest 3](https://img.shields.io/badge/VR-Meta%20Quest%203-663399?logo=oculus&logoColor=white)
 
-#### 🐱 [Garras do Destino](https://github.com/LeoMarques1206/unity-biomas)
+#### 🐱 [Claws of Destiny](https://github.com/LeoMarques1206/unity-biomas)
 
-- Jogo 2D de plataforma feito em C# na Unity com informações educacionais sobre biomas brasileiros utilizando uma IA integrada com o Chat GPT
-- Meu primeiro jogo na Unity feito como parte de um projeto na graduação
+- 2D platform game developed in C# with Unity that teaches educational content about Brazilian biomes using an AI integrated with ChatGPT  
+- My first Unity game developed as part of an undergraduate project
 
-![C#](https://img.shields.io/badge/Feito%20com-C%23-239120?logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Ferramenta-Unity-000000?logo=unity&logoColor=white)
-![IA: ChatGPT](https://img.shields.io/badge/IA-ChatGPT-74aa9c?logo=openai&logoColor=white)
+![C#](https://img.shields.io/badge/Built%20with-C%23-239120?logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Engine-Unity-000000?logo=unity&logoColor=white)
+![AI: ChatGPT](https://img.shields.io/badge/AI-ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
 ---
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=LeoMarques1206&theme=tokyonight&hide_border=false&border_radius=5" height="150" />
@@ -68,7 +68,7 @@
 
 ---
 
-### 💻 Linguagens
+### 💻 Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
@@ -82,7 +82,7 @@
 
 ---
 
-### 🧰 Ferramentas
+### 🧰 Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" />
@@ -95,5 +95,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" />
 </div>
-
----
